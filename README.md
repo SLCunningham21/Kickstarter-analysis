@@ -20,7 +20,8 @@ The success of a theater play waned as the months progressed, however in October
 
 ### Challenges and Difficulties Encountered
 
-* One significant challenge that I encountered was that I could not configure a COUNTIFS formula that I was confidence in when I was creating my pivot table for Outcomes Based on Goals.
+* One significant challenge that I encountered was that I could not configure a COUNTIFS formula that I was confidence in when I was creating my pivot table for Outcomes Based on Goals. For example when using the COUNTifs formula at first I had a much less complex formula, but upon re-reviewing the help video I came up with this formula =COUNTIFS(Kickstarter!$D:$D,">=1000", Kickstarter!$D:$D,"<=4999",Kickstarter!$R:$R,"plays") although I am not certain that the last criteria was really necessary.
+
 Each time I attempted a new formula and filter on my data I was met with a different sum total for each column. 
 
 ## Results
